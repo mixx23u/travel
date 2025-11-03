@@ -1,1 +1,717 @@
-.Header_container__CH8eN{display:flex;align-self:stretch;border-bottom:1px solid #eee}.Header_desktopLayout__rvYEw{display:flex;padding:16px 24px;justify-content:space-between;align-items:center;width:100%}.Header_mobileLayout__5hlIy{display:none;flex-direction:column;padding:12px 24px 16px;align-items:center;width:100%;gap:12px}.Header_dragTab__q57BY{width:40px;height:4px;background-color:#d1d5db;border-radius:2px;cursor:grab;transition:background-color .2s ease}.Header_dragTab__q57BY:hover{background-color:#9ca3af}.Header_dragTab__q57BY:active{cursor:grabbing;background-color:#6b7280}.Header_title__lTi79{color:#000;text-align:center;font-size:20px;font-style:normal;font-weight:600;line-height:20px}.Header_closeButton__TdA3C{position:relative;left:unset;top:unset;right:unset;bottom:unset}.Header_spacer__qwTfY{width:40px;height:40px;background-color:transparent}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.Header_desktopLayout__rvYEw{display:none}.Header_mobileLayout__5hlIy{display:flex;padding:12px 16px 16px}.Header_title__lTi79{font-size:18px;font-weight:500}.Header_dragTab__q57BY{width:36px;height:4px}}.Footer_container__4MMU8{display:flex;padding:16px 24px;justify-content:space-between;align-items:center;align-self:stretch;border-top:1px solid #eaeaea}.Footer_clearAll__ImOfq{color:#000;font-size:16px;font-style:normal;font-weight:500;line-height:16px;letter-spacing:-.32px;border:none;background-color:transparent;text-decoration:underline;cursor:pointer}.Footer_nextDisabled__v9_S3{background:#d2d2d2}.Footer_nextDisabled__v9_S3,.Footer_nextEnabled__N6pBX{display:flex;padding:16px 40px;justify-content:center;align-items:center;gap:8px;border-radius:9px;color:#fff;font-size:16px;font-style:normal;font-weight:600;line-height:16px;border:none}.Footer_nextEnabled__N6pBX{background:#000;cursor:pointer}.Footer_saveDisabled__2_oir{background:#d2d2d2}.Footer_saveDisabled__2_oir,.Footer_saveEnabled__5Rgb0{display:flex;padding:16px 40px;justify-content:center;align-items:center;gap:8px;border-radius:9px;color:#fff;font-size:16px;font-style:normal;font-weight:600;line-height:16px;border:none}.Footer_saveEnabled__5Rgb0{background:var(--colors-primary);cursor:pointer}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.Footer_container__4MMU8{padding:16px 16px 16px 24px}.Footer_clearAll__ImOfq{font-size:14px;line-height:14px}}.Content_container__K2U_j{display:flex;padding:24px;flex-direction:column;align-items:flex-start;gap:20px;align-self:stretch}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.Content_container__K2U_j{padding:24px 16px;gap:16px}}.DateRangeCalendar_container__N9DXt{display:flex;gap:32px;width:100%;align-items:flex-start}.DateRangeCalendar_month__C4_Pm{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:16px;flex:1;flex-grow:1;flex-shrink:0}.DateRangeCalendar_monthHeader__yU6DA{display:flex;flex-direction:column;align-items:flex-start;gap:8px;align-self:stretch}.DateRangeCalendar_monthHeaderNavigation__GvB3k{display:flex;padding:10px 0;justify-content:space-between;align-items:center;align-self:stretch}.DateRangeCalendar_monthHeaderNavigationButton__Ux_dY{cursor:pointer;display:flex;width:24px;height:24px;justify-content:center;align-items:center;border-radius:40px;background:#f2f2f2;backdrop-filter:blur(10px)}.DateRangeCalendar_monthHeaderNavigationSpacer__xo0GH{width:24px;height:24px;background-color:transparent}.DateRangeCalendar_monthHeaderNavigationTitle__vkweE{color:#000;text-align:center;font-size:16px;font-style:normal;font-weight:500;line-height:16px}.DateRangeCalendar_monthHeaderWeekdays__e1Lye{display:flex;align-items:flex-start;justify-content:space-around;align-self:stretch}.DateRangeCalendar_monthHeaderWeekday__Z6Gtz{display:flex;width:24px;height:24px;flex-direction:column;align-items:center;justify-content:center;color:#000;text-align:center;font-size:14px;font-style:normal;font-weight:500;line-height:14px}.DateRangeCalendar_days__gf_Uw{width:100%;display:flex;flex-direction:column;align-items:flex-start;gap:24px}.DateRangeCalendar_weekOfDays___Fs1h{width:100%;display:flex;flex-direction:row;justify-content:space-between}.DateRangeCalendar_dayContainer__dtRN4{flex:1;display:flex;align-items:center;justify-content:center;justify-items:center;height:32px;position:relative}.DateRangeCalendar_day__CbtEc{cursor:pointer;align-self:center;display:flex;width:32px;height:32px;flex-direction:column;justify-content:center;text-align:center;font-size:16px;font-style:normal;font-weight:500;line-height:16px;z-index:2}.DateRangeCalendar_dayEnabled__KhMjB{color:#000}.DateRangeCalendar_dayDisabled__c_mki{color:#c1c1c1}.DateRangeCalendar_daySelected__qcI5d{color:#fff;background:var(--colors-primary);border-radius:50%}.DateRangeCalendar_dayRange__bgW7S{position:absolute;top:0;left:0;width:100%;height:100%;background-color:#d3f2f2}.DateRangeCalendar_dayRangeStart__SzOx7{position:absolute;top:0;right:0;width:50%;height:100%;background-color:#d3f2f2}.DateRangeCalendar_dayRangeEnd__BlxOB{position:absolute;top:0;left:0;width:50%;height:100%;background-color:#d3f2f2}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.DateRangeCalendar_day__CbtEc,.DateRangeCalendar_monthHeaderNavigationTitle__vkweE{font-size:14px;line-height:14px}.DateRangeCalendar_days__gf_Uw{gap:16px}.DateRangeCalendar_monthHeaderNavigationButton__Ux_dY{width:32px;height:32px}.DateRangeCalendar_monthHeaderNavigationSpacer__xo0GH{width:44px;height:44px}.DateRangeCalendar_day__CbtEc{width:44px;height:44px;font-size:16px;line-height:16px}.DateRangeCalendar_dayContainer__dtRN4{height:44px}}.DateSelector_containerClosed__PY05t{display:flex;padding:24px;justify-content:space-between;align-items:center;align-self:stretch;border-radius:20px;border:1px solid #d2d2d2;background:#eee;cursor:pointer}.DateSelector_containerClosed__PY05t .DateSelector_label__foS1R,.DateSelector_containerClosed__PY05t .DateSelector_value__eni2t{color:#000;font-size:18px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-.36px}.DateSelector_containerClosed__PY05t .DateSelector_value__eni2t{text-align:right}.DateSelector_containerOpened__NBU_e{display:flex;padding:24px;flex-direction:column;align-items:flex-start;gap:24px;align-self:stretch;border-radius:24px;border:1px solid #eaeaea;background:#fff;box-shadow:0 8px 16px 0 rgba(0,0,0,.12)}.DateSelector_containerOpened__NBU_e .DateSelector_title__vHbWM{color:#000;font-size:24px;font-style:normal;font-weight:500;line-height:24px;letter-spacing:-.48px}.DateSelector_containerOpened__NBU_e .DateSelector_label__foS1R{color:#000;font-size:16px;font-style:normal;font-weight:500;line-height:16px;letter-spacing:-.32px}.DateSelector_containerOpened__NBU_e .DateSelector_info__t8JPW{color:#8c9094;font-size:14px;font-style:normal;font-weight:400;line-height:14px;letter-spacing:-.28px}.DateSelector_containerOpened__NBU_e .DateSelector_value__eni2t{color:#000;text-align:center;font-size:18px;font-style:normal;font-weight:500;line-height:18px}.DateSelector_containerOpened__NBU_e .DateSelector_value-down__hTr1D{width:32px;height:32px;flex-shrink:0;stroke-width:1px;stroke:#f0f0f0}.DateSelector_containerOpened__NBU_e .DateSelector_value-up__7mXQb{width:32px;height:32px;flex-shrink:0;stroke-width:1px;stroke:var(--Primary-Black,#000)}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.DateSelector_containerOpened__NBU_e .DateSelector_title__vHbWM{font-size:18px}.DateSelector_containerOpened__NBU_e{padding:16px;gap:16px}.DateSelector_containerClosed__PY05t{padding:16px}.DateSelector_containerClosed__PY05t .DateSelector_label__foS1R,.DateSelector_containerClosed__PY05t .DateSelector_value__eni2t{font-size:16px;line-height:16px}}.RoomsAndGuestsSelector_containerClosed__8mMEh{display:flex;padding:24px;justify-content:space-between;align-items:center;align-self:stretch;border-radius:20px;border:1px solid #d2d2d2;background:#eee;cursor:pointer}.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_label___6mox,.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_value__gOroO{color:#000;font-size:18px;font-style:normal;font-weight:500;line-height:18px;letter-spacing:-.36px}.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_value__gOroO{text-align:right}.RoomsAndGuestsSelector_containerOpened__SM6kr{display:flex;padding:24px;flex-direction:column;align-items:flex-start;gap:24px;align-self:stretch;border-radius:24px;border:1px solid #eaeaea;background:#fff;box-shadow:0 8px 16px 0 rgba(0,0,0,.12)}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_title__EMpzA{color:#000;font-size:24px;font-style:normal;font-weight:500;line-height:24px;letter-spacing:-.48px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_content__EHqCo{display:flex;flex-direction:column;align-items:flex-start;gap:16px;align-self:stretch}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_section__5ek9T{display:flex;justify-content:space-between;align-items:center;align-self:stretch}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueSection__IlUDV{display:flex;justify-content:flex-end;align-items:center;gap:12px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_labelBlock__uiojw{display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:12px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_label___6mox{color:#000;font-size:16px;font-style:normal;font-weight:500;line-height:16px;letter-spacing:-.32px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_info__mMoge{color:#8c9094;font-size:14px;font-style:normal;font-weight:400;line-height:14px;letter-spacing:-.28px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_value__gOroO{color:#000;text-align:center;font-size:18px;font-style:normal;font-weight:500;line-height:18px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueDown__0JGVl{width:32px;height:32px;flex-shrink:0;border:1px solid #f0f0f0;border-radius:50%;display:flex;align-items:center;justify-content:center;justify-items:center;cursor:pointer}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueUp__26mkV{width:32px;height:32px;flex-shrink:0;border:1px solid #000;border-radius:50%;display:flex;align-items:center;justify-content:center;justify-items:center;cursor:pointer}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_divider__RTnEc{width:100%;color:#eaeaea}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueDown__0JGVl,.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueUp__26mkV{width:24px;height:24px}.RoomsAndGuestsSelector_containerClosed__8mMEh{padding:16px}.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_label___6mox{font-size:16px;line-height:16px}.RoomsAndGuestsSelector_containerOpened__SM6kr{padding:16px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_title__EMpzA{font-size:18px;line-height:18px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_label___6mox{font-size:14px;line-height:14px}.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_value__gOroO{font-size:16px;line-height:16px}}.TripDetailsModal_backdrop__g461S{position:fixed;inset:0;background-color:rgba(0,0,0,.5);z-index:999998}.TripDetailsModal_container__pvdXR{display:flex;width:720px;flex-direction:column;align-items:center;border-radius:24px;background:#fff;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);max-height:90vh;z-index:999999;overflow:hidden}.TripDetailsModal_content_wrapper__hcrpB{flex:1;overflow-y:auto;width:100%}.TripDetailsModal_footer_wrapper__h3xwI{width:100%}.TripDetailsModal_drawer_overlay__M12Ok{z-index:999998;background-color:rgba(0,0,0,.5)}.TripDetailsModal_drawer_content__m8FRA{display:flex!important;flex-direction:column!important;overflow:hidden!important}
+.Header_container__CH8eN {
+    display: flex;
+    align-self: stretch;
+    border-bottom: 1px solid #eee
+}
+
+.Header_desktopLayout__rvYEw {
+    display: flex;
+    padding: 16px 24px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%
+}
+
+.Header_mobileLayout__5hlIy {
+    display: none;
+    flex-direction: column;
+    padding: 12px 24px 16px;
+    align-items: center;
+    width: 100%;
+    gap: 12px
+}
+
+.Header_dragTab__q57BY {
+    width: 40px;
+    height: 4px;
+    background-color: #d1d5db;
+    border-radius: 2px;
+    cursor: grab;
+    transition: background-color .2s ease
+}
+
+.Header_dragTab__q57BY:hover {
+    background-color: #9ca3af
+}
+
+.Header_dragTab__q57BY:active {
+    cursor: grabbing;
+    background-color: #6b7280
+}
+
+.Header_title__lTi79 {
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px
+}
+
+.Header_closeButton__TdA3C {
+    position: relative;
+    left: unset;
+    top: unset;
+    right: unset;
+    bottom: unset
+}
+
+.Header_spacer__qwTfY {
+    width: 40px;
+    height: 40px;
+    background-color: transparent
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .Header_desktopLayout__rvYEw {
+        display: none
+    }
+
+    .Header_mobileLayout__5hlIy {
+        display: flex;
+        padding: 12px 16px 16px
+    }
+
+    .Header_title__lTi79 {
+        font-size: 18px;
+        font-weight: 500
+    }
+
+    .Header_dragTab__q57BY {
+        width: 36px;
+        height: 4px
+    }
+}
+
+.Footer_container__4MMU8 {
+    display: flex;
+    padding: 16px 24px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-top: 1px solid #eaeaea
+}
+
+.Footer_clearAll__ImOfq {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -.32px;
+    border: none;
+    background-color: transparent;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.Footer_nextDisabled__v9_S3 {
+    background: #d2d2d2
+}
+
+.Footer_nextDisabled__v9_S3,
+.Footer_nextEnabled__N6pBX {
+    display: flex;
+    padding: 16px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 9px;
+    color: #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    border: none
+}
+
+.Footer_nextEnabled__N6pBX {
+    background: #000;
+    cursor: pointer
+}
+
+.Footer_saveDisabled__2_oir {
+    background: #d2d2d2
+}
+
+.Footer_saveDisabled__2_oir,
+.Footer_saveEnabled__5Rgb0 {
+    display: flex;
+    padding: 16px 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 9px;
+    color: #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    border: none
+}
+
+.Footer_saveEnabled__5Rgb0 {
+    background: var(--colors-primary);
+    cursor: pointer
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .Footer_container__4MMU8 {
+        padding: 16px 16px 16px 24px
+    }
+
+    .Footer_clearAll__ImOfq {
+        font-size: 14px;
+        line-height: 14px
+    }
+}
+
+.Content_container__K2U_j {
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    align-self: stretch
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .Content_container__K2U_j {
+        padding: 24px 16px;
+        gap: 16px
+    }
+}
+
+.DateRangeCalendar_container__N9DXt {
+    display: flex;
+    gap: 32px;
+    width: 100%;
+    align-items: flex-start
+}
+
+.DateRangeCalendar_month__C4_Pm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 0
+}
+
+.DateRangeCalendar_monthHeader__yU6DA {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch
+}
+
+.DateRangeCalendar_monthHeaderNavigation__GvB3k {
+    display: flex;
+    padding: 10px 0;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch
+}
+
+.DateRangeCalendar_monthHeaderNavigationButton__Ux_dY {
+    cursor: pointer;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    background: #f2f2f2;
+    backdrop-filter: blur(10px)
+}
+
+.DateRangeCalendar_monthHeaderNavigationSpacer__xo0GH {
+    width: 24px;
+    height: 24px;
+    background-color: transparent
+}
+
+.DateRangeCalendar_monthHeaderNavigationTitle__vkweE {
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px
+}
+
+.DateRangeCalendar_monthHeaderWeekdays__e1Lye {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-self: stretch
+}
+
+.DateRangeCalendar_monthHeaderWeekday__Z6Gtz {
+    display: flex;
+    width: 24px;
+    height: 24px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14px
+}
+
+.DateRangeCalendar_days__gf_Uw {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px
+}
+
+.DateRangeCalendar_weekOfDays___Fs1h {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.DateRangeCalendar_dayContainer__dtRN4 {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    height: 32px;
+    position: relative
+}
+
+.DateRangeCalendar_day__CbtEc {
+    cursor: pointer;
+    align-self: center;
+    display: flex;
+    width: 32px;
+    height: 32px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    z-index: 2
+}
+
+.DateRangeCalendar_dayEnabled__KhMjB {
+    color: #000
+}
+
+.DateRangeCalendar_dayDisabled__c_mki {
+    color: #c1c1c1
+}
+
+.DateRangeCalendar_daySelected__qcI5d {
+    color: #fff;
+    background: var(--colors-primary);
+    border-radius: 50%
+}
+
+.DateRangeCalendar_dayRange__bgW7S {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #d3f2f2
+}
+
+.DateRangeCalendar_dayRangeStart__SzOx7 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #d3f2f2
+}
+
+.DateRangeCalendar_dayRangeEnd__BlxOB {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: #d3f2f2
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+
+    .DateRangeCalendar_day__CbtEc,
+    .DateRangeCalendar_monthHeaderNavigationTitle__vkweE {
+        font-size: 14px;
+        line-height: 14px
+    }
+
+    .DateRangeCalendar_days__gf_Uw {
+        gap: 16px
+    }
+
+    .DateRangeCalendar_monthHeaderNavigationButton__Ux_dY {
+        width: 32px;
+        height: 32px
+    }
+
+    .DateRangeCalendar_monthHeaderNavigationSpacer__xo0GH {
+        width: 44px;
+        height: 44px
+    }
+
+    .DateRangeCalendar_day__CbtEc {
+        width: 44px;
+        height: 44px;
+        font-size: 16px;
+        line-height: 16px
+    }
+
+    .DateRangeCalendar_dayContainer__dtRN4 {
+        height: 44px
+    }
+}
+
+.DateSelector_containerClosed__PY05t {
+    display: flex;
+    padding: 24px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 20px;
+    border: 1px solid #d2d2d2;
+    background: #eee;
+    cursor: pointer
+}
+
+.DateSelector_containerClosed__PY05t .DateSelector_label__foS1R,
+.DateSelector_containerClosed__PY05t .DateSelector_value__eni2t {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -.36px
+}
+
+.DateSelector_containerClosed__PY05t .DateSelector_value__eni2t {
+    text-align: right
+}
+
+.DateSelector_containerOpened__NBU_e {
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    align-self: stretch;
+    border-radius: 24px;
+    border: 1px solid #eaeaea;
+    background: #fff;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .12)
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_title__vHbWM {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -.48px
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_label__foS1R {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -.32px
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_info__t8JPW {
+    color: #8c9094;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -.28px
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_value__eni2t {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_value-down__hTr1D {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #f0f0f0
+}
+
+.DateSelector_containerOpened__NBU_e .DateSelector_value-up__7mXQb {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: var(--Primary-Black, #000)
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .DateSelector_containerOpened__NBU_e .DateSelector_title__vHbWM {
+        font-size: 18px
+    }
+
+    .DateSelector_containerOpened__NBU_e {
+        padding: 16px;
+        gap: 16px
+    }
+
+    .DateSelector_containerClosed__PY05t {
+        padding: 16px
+    }
+
+    .DateSelector_containerClosed__PY05t .DateSelector_label__foS1R,
+    .DateSelector_containerClosed__PY05t .DateSelector_value__eni2t {
+        font-size: 16px;
+        line-height: 16px
+    }
+}
+
+.RoomsAndGuestsSelector_containerClosed__8mMEh {
+    display: flex;
+    padding: 24px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 20px;
+    border: 1px solid #d2d2d2;
+    background: #eee;
+    cursor: pointer
+}
+
+.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_label___6mox,
+.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_value__gOroO {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -.36px
+}
+
+.RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_value__gOroO {
+    text-align: right
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr {
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    align-self: stretch;
+    border-radius: 24px;
+    border: 1px solid #eaeaea;
+    background: #fff;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .12)
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_title__EMpzA {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -.48px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_content__EHqCo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_section__5ek9T {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueSection__IlUDV {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_labelBlock__uiojw {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 12px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_label___6mox {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -.32px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_info__mMoge {
+    color: #8c9094;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -.28px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_value__gOroO {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueDown__0JGVl {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    border: 1px solid #f0f0f0;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    cursor: pointer
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueUp__26mkV {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    cursor: pointer
+}
+
+.RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_divider__RTnEc {
+    width: 100%;
+    color: #eaeaea
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+
+    .RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueDown__0JGVl,
+    .RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_valueUp__26mkV {
+        width: 24px;
+        height: 24px
+    }
+
+    .RoomsAndGuestsSelector_containerClosed__8mMEh {
+        padding: 16px
+    }
+
+    .RoomsAndGuestsSelector_containerClosed__8mMEh .RoomsAndGuestsSelector_label___6mox {
+        font-size: 16px;
+        line-height: 16px
+    }
+
+    .RoomsAndGuestsSelector_containerOpened__SM6kr {
+        padding: 16px
+    }
+
+    .RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_title__EMpzA {
+        font-size: 18px;
+        line-height: 18px
+    }
+
+    .RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_label___6mox {
+        font-size: 14px;
+        line-height: 14px
+    }
+
+    .RoomsAndGuestsSelector_containerOpened__SM6kr .RoomsAndGuestsSelector_value__gOroO {
+        font-size: 16px;
+        line-height: 16px
+    }
+}
+
+.TripDetailsModal_backdrop__g461S {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, .5);
+    z-index: 999998
+}
+
+.TripDetailsModal_container__pvdXR {
+    display: flex;
+    width: 720px;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 24px;
+    background: #fff;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-height: 90vh;
+    z-index: 999999;
+    overflow: hidden
+}
+
+.TripDetailsModal_content_wrapper__hcrpB {
+    flex: 1;
+    overflow-y: auto;
+    width: 100%
+}
+
+.TripDetailsModal_footer_wrapper__h3xwI {
+    width: 100%
+}
+
+.TripDetailsModal_drawer_overlay__M12Ok {
+    z-index: 999998;
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.TripDetailsModal_drawer_content__m8FRA {
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important
+}

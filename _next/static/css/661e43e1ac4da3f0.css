@@ -1,1 +1,551 @@
-.TripTransfersPopup_coverWrapper__UeNYm{width:736px;margin:auto;height:596px;background-color:#fff;border-radius:18px;overflow:hidden;position:relative;box-shadow:-12px 0 24px 0 #00000014}.TripTransfersPopup_overflowContainer__06GyN{border-radius:20px;overflow-y:auto;height:calc(100% - 56px)}.TripTransfersPopup_wrapperOverflow__jc9gS{display:flex;flex-direction:column;position:relative;gap:8px;padding:24px;overflow-y:auto}.TripTransfersPopup_header__irhN2{height:56px;position:relative;padding:12px 24px;border-bottom:1px solid #efefef;display:flex;justify-content:center;align-items:center}.TripTransfersPopup_header_title__W6yY0{font-size:18px;font-weight:600;line-height:18px}.TripTransfersPopup_hotel_name__x3xjX{font-size:24px;font-weight:500;line-height:32px;text-align:left}.TripTransfersPopup_transferData__r8HGb{display:flex;gap:4px;align-items:center;font-weight:400;font-size:14px;line-height:18px;color:#333}.TripTransfersPopup_item_wrapper__gAskZ{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;padding:0 24px 24px;width:100%}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.TripTransfersPopup_coverWrapper__UeNYm{height:100%}.TripTransfersPopup_item_wrapper__gAskZ{padding:0}.TripTransfersPopup_overflowContainer__06GyN{padding:16px 16px 20px;gap:32px}.TripTransfersPopup_header__irhN2{height:64px;border-top-right-radius:18px;border-top-left-radius:18px}.TripTransfersPopup_hotel_name__x3xjX{font-size:18px;font-weight:500;line-height:28px}.TripTransfersPopup_wrapperOverflow__jc9gS{padding:0 0 24px}}.TransferCard_container__jSnan{width:332px;display:flex;flex-direction:column;gap:16px;cursor:pointer}.TransferCard_image_wrapper__XOGMf{width:100%;height:280px;border-radius:14px;border:1px solid #0000001a;overflow:hidden;position:relative}.TransferCard_carousel_item__n0Bej{min-width:100%;width:100%;height:100%;background-size:cover;background-position:50%}.TransferCard_image__N_9O_{width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.TransferCard_selectCircle__T6wrd{position:absolute;top:16px;right:16px;width:24px;height:24px;padding:4px;gap:16.8px;border-radius:105px;border:1.5px solid #fff;background:#10101066;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2}.TransferCard_selectCircle__T6wrd img{width:14px;height:14px}.TransferCard_greenCircle__7aVxR{background:#4fb741;backdrop-filter:blur(4px)}.TransferCard_info__ItaG7{display:flex;flex-direction:column;gap:12px}.TransferCard_wrapperText__6A1Rp{display:flex;flex-direction:column;gap:4px}.TransferCard_titleTransfer__OrKIm{font-weight:600;font-size:14px;line-height:18px}.TransferCard_transferInfoP__VMng4{display:flex;gap:6px;color:#7f7f7f;font-weight:400;font-size:14px;line-height:18px}.TransferCard_dots__Oh354{color:#d9d9d9}.TransferCard_price__kNX6H{display:flex;align-items:center;gap:2px;font-weight:400;font-size:14px;line-height:14px;color:#000}.TransferCard_price__kNX6H span{font-weight:500;line-height:18px}.TransferCard_price__kNX6H small{color:#8c8c8c}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.TransferCard_container__jSnan,.TransferCard_container__jSnan img{width:100%}}.TransferFooter_footerWrapper__Bjlms{position:absolute;bottom:0;width:100%;border-top:1px solid #ebebeb;padding:24px;background-color:#fff;display:flex;justify-content:space-between}.TransferFooter_checkAvailability__1Lbbg{height:52px;padding:16px 32px;border-radius:40px;background-color:var(--colors-primary);color:#fff;outline:none;border:none;font-weight:500;font-size:16px;line-height:20px;text-align:center;cursor:pointer;transition:background-color .3s linear}.TransferFooter_checkAvailability__1Lbbg:hover{background:rgba(var(--colors-primaryRGB),.8)}.TransferFooter_dataWrapper__I2DbQ{display:flex;flex-direction:column;gap:8px}.TransferFooter_date__R90qv{font-weight:400;font-size:12px;line-height:12px;color:#7f7f7f}.TransferFooter_discount_price__RRiCs{display:flex;flex-wrap:wrap;gap:2px;align-items:baseline}.TransferFooter_discount_price_price__Ln5YD>span{font-weight:500;font-size:20px;line-height:20px}.TransferFooter_discount_price_price__Ln5YD>small{font-weight:400;font-size:14px;line-height:14px;color:#8c8c8c}.TransferFooter_discount_price_price__Ln5YD{display:flex;align-items:center;gap:3px;flex-wrap:wrap}.TransferFooter_from__ojH9E{font-weight:500;font-size:12px;line-height:12px;text-align:right;text-decoration:line-through;color:#8c8c8c}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.TransferFooter_footerWrapper__Bjlms{flex-direction:column;gap:16px;padding:16px}.TransferFooter_discount_price__RRiCs{flex-direction:row;gap:6px}}.TransferPopup_coverWrapper__XINUy{width:100%;max-width:900px;margin:auto;height:100%;background-color:#fff;border-radius:1rem;overflow:hidden;position:relative}.TransferPopup_photoModal__a4ceY{display:none}.TransferPopup_overflowContainer__bks8D{display:flex;flex-direction:column;position:relative;gap:24px;padding:85px 24px 130px;border-radius:20px;overflow:auto;height:100%}.TransferPopup_title_wrapper__uaReq{display:flex;flex-direction:column;gap:8px}.TransferPopup_card__title__Xuuu6{display:-webkit-box;-webkit-line-clamp:2;line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis;font-size:24px;font-weight:500;line-height:32px;color:#000;min-height:28px}.TransferPopup_ratingWrapper__Nw4RM{display:flex;align-items:center;gap:6px;font-size:14px;font-weight:400;line-height:14px;letter-spacing:-.02em;color:#000}.TransferPopup_ratingWrapper__Nw4RM small{color:#7f7f7f;font-size:14px;font-weight:400;line-height:14px}.TransferPopup_stars__YVmy0{display:flex;gap:0}.TransferPopup_overview__iH1xL{font-size:20px;font-weight:500;line-height:32px;margin-bottom:8px}.TransferPopup_description__H1rvX{font-size:16px;font-weight:400;line-height:24px;color:#000;display:flex;gap:32px}.TransferPopup_description_overview__ui6Rd{width:100%}.TransferPopup_abstract___xI2Z{font-weight:400;font-size:16px;line-height:24px}.TransferPopup_descriptionDiv__Lshe9{margin:32px 0 24px}.TransferPopup_map_container__MVc6z{height:374px;position:relative;overflow:hidden;border-radius:16px}.TransferPopup_header__M8LRA{position:absolute;top:0;left:0;width:100%;display:flex;justify-content:center;align-items:center;height:64px;border-bottom:1px solid #eaeaea;background:#fff;z-index:2}.TransferPopup_header__M8LRA p{font-size:18px;font-weight:600;line-height:18px;letter-spacing:-.02em;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:600px;display:inline-block}.TransferPopup_duration_container__tKBjj{margin-bottom:24px;padding:12px;gap:12px;border-radius:14px;background:#fafafa}.TransferPopup_container_time__OxRyB{background:#ebebeb;display:flex;justify-content:center;align-items:center;border-radius:40px;width:24px;height:24px;margin-bottom:12px}.TransferPopup_duration_text__BEozV{font-size:16px;font-weight:500;line-height:24px;letter-spacing:-.02em;color:#000}.TransferPopup_check_text__xLmyH{font-size:14px;font-weight:400;line-height:18px;letter-spacing:-.02em;color:#333;margin-top:4px}.TransferPopup_boxHr__87dHN{width:100%}.TransferPopup_hr__hHkaq{width:100%;border-bottom:1px solid #e6e6e6}.TransferPopup_location__I2w6j{display:flex;flex-direction:row;align-items:center;gap:8px;font-size:14px;font-weight:400;line-height:24px;color:#000;margin-top:16px}@media (max-width:1366px) and (pointer:coarse),(max-width:768px){.TransferPopup_header__M8LRA p{font-size:18px;font-weight:500;line-height:18px;letter-spacing:-.02em;text-align:center;text-underline-position:from-font;-webkit-text-decoration-skip-ink:none;text-decoration-skip-ink:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100px;display:inline-block}.TransferPopup_overflowContainer__bks8D{padding:80px 16px 160px;gap:32px}.TransferPopup_description__H1rvX{gap:0;font-size:14px;line-height:20px}.TransferPopup_map_container__MVc6z{height:220px}.TransferPopup_card__title__Xuuu6{font-size:24px;font-weight:500;line-height:28px}.TransferPopup_location__I2w6j{font-size:14px;line-height:24px}.TransferPopup_location__I2w6j img{width:16px;height:15.3px}}
+.TripTransfersPopup_coverWrapper__UeNYm {
+    width: 736px;
+    margin: auto;
+    height: 596px;
+    background-color: #fff;
+    border-radius: 18px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: -12px 0 24px 0 #00000014
+}
+
+.TripTransfersPopup_overflowContainer__06GyN {
+    border-radius: 20px;
+    overflow-y: auto;
+    height: calc(100% - 56px)
+}
+
+.TripTransfersPopup_wrapperOverflow__jc9gS {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 8px;
+    padding: 24px;
+    overflow-y: auto
+}
+
+.TripTransfersPopup_header__irhN2 {
+    height: 56px;
+    position: relative;
+    padding: 12px 24px;
+    border-bottom: 1px solid #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.TripTransfersPopup_header_title__W6yY0 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px
+}
+
+.TripTransfersPopup_hotel_name__x3xjX {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left
+}
+
+.TripTransfersPopup_transferData__r8HGb {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #333
+}
+
+.TripTransfersPopup_item_wrapper__gAskZ {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    padding: 0 24px 24px;
+    width: 100%
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .TripTransfersPopup_coverWrapper__UeNYm {
+        height: 100%
+    }
+
+    .TripTransfersPopup_item_wrapper__gAskZ {
+        padding: 0
+    }
+
+    .TripTransfersPopup_overflowContainer__06GyN {
+        padding: 16px 16px 20px;
+        gap: 32px
+    }
+
+    .TripTransfersPopup_header__irhN2 {
+        height: 64px;
+        border-top-right-radius: 18px;
+        border-top-left-radius: 18px
+    }
+
+    .TripTransfersPopup_hotel_name__x3xjX {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 28px
+    }
+
+    .TripTransfersPopup_wrapperOverflow__jc9gS {
+        padding: 0 0 24px
+    }
+}
+
+.TransferCard_container__jSnan {
+    width: 332px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    cursor: pointer
+}
+
+.TransferCard_image_wrapper__XOGMf {
+    width: 100%;
+    height: 280px;
+    border-radius: 14px;
+    border: 1px solid #0000001a;
+    overflow: hidden;
+    position: relative
+}
+
+.TransferCard_carousel_item__n0Bej {
+    min-width: 100%;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50%
+}
+
+.TransferCard_image__N_9O_ {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.TransferCard_selectCircle__T6wrd {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 24px;
+    height: 24px;
+    padding: 4px;
+    gap: 16.8px;
+    border-radius: 105px;
+    border: 1.5px solid #fff;
+    background: #10101066;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 2
+}
+
+.TransferCard_selectCircle__T6wrd img {
+    width: 14px;
+    height: 14px
+}
+
+.TransferCard_greenCircle__7aVxR {
+    background: #4fb741;
+    backdrop-filter: blur(4px)
+}
+
+.TransferCard_info__ItaG7 {
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.TransferCard_wrapperText__6A1Rp {
+    display: flex;
+    flex-direction: column;
+    gap: 4px
+}
+
+.TransferCard_titleTransfer__OrKIm {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px
+}
+
+.TransferCard_transferInfoP__VMng4 {
+    display: flex;
+    gap: 6px;
+    color: #7f7f7f;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px
+}
+
+.TransferCard_dots__Oh354 {
+    color: #d9d9d9
+}
+
+.TransferCard_price__kNX6H {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #000
+}
+
+.TransferCard_price__kNX6H span {
+    font-weight: 500;
+    line-height: 18px
+}
+
+.TransferCard_price__kNX6H small {
+    color: #8c8c8c
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+
+    .TransferCard_container__jSnan,
+    .TransferCard_container__jSnan img {
+        width: 100%
+    }
+}
+
+.TransferFooter_footerWrapper__Bjlms {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #ebebeb;
+    padding: 24px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between
+}
+
+.TransferFooter_checkAvailability__1Lbbg {
+    height: 52px;
+    padding: 16px 32px;
+    border-radius: 40px;
+    background-color: var(--colors-primary);
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color .3s linear
+}
+
+.TransferFooter_checkAvailability__1Lbbg:hover {
+    background: rgba(var(--colors-primaryRGB), .8)
+}
+
+.TransferFooter_dataWrapper__I2DbQ {
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+
+.TransferFooter_date__R90qv {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #7f7f7f
+}
+
+.TransferFooter_discount_price__RRiCs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    align-items: baseline
+}
+
+.TransferFooter_discount_price_price__Ln5YD>span {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px
+}
+
+.TransferFooter_discount_price_price__Ln5YD>small {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #8c8c8c
+}
+
+.TransferFooter_discount_price_price__Ln5YD {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    flex-wrap: wrap
+}
+
+.TransferFooter_from__ojH9E {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: right;
+    text-decoration: line-through;
+    color: #8c8c8c
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .TransferFooter_footerWrapper__Bjlms {
+        flex-direction: column;
+        gap: 16px;
+        padding: 16px
+    }
+
+    .TransferFooter_discount_price__RRiCs {
+        flex-direction: row;
+        gap: 6px
+    }
+}
+
+.TransferPopup_coverWrapper__XINUy {
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 1rem;
+    overflow: hidden;
+    position: relative
+}
+
+.TransferPopup_photoModal__a4ceY {
+    display: none
+}
+
+.TransferPopup_overflowContainer__bks8D {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 24px;
+    padding: 85px 24px 130px;
+    border-radius: 20px;
+    overflow: auto;
+    height: 100%
+}
+
+.TransferPopup_title_wrapper__uaReq {
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+
+.TransferPopup_card__title__Xuuu6 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #000;
+    min-height: 28px
+}
+
+.TransferPopup_ratingWrapper__Nw4RM {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -.02em;
+    color: #000
+}
+
+.TransferPopup_ratingWrapper__Nw4RM small {
+    color: #7f7f7f;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px
+}
+
+.TransferPopup_stars__YVmy0 {
+    display: flex;
+    gap: 0
+}
+
+.TransferPopup_overview__iH1xL {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-bottom: 8px
+}
+
+.TransferPopup_description__H1rvX {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    display: flex;
+    gap: 32px
+}
+
+.TransferPopup_description_overview__ui6Rd {
+    width: 100%
+}
+
+.TransferPopup_abstract___xI2Z {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px
+}
+
+.TransferPopup_descriptionDiv__Lshe9 {
+    margin: 32px 0 24px
+}
+
+.TransferPopup_map_container__MVc6z {
+    height: 374px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 16px
+}
+
+.TransferPopup_header__M8LRA {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+    border-bottom: 1px solid #eaeaea;
+    background: #fff;
+    z-index: 2
+}
+
+.TransferPopup_header__M8LRA p {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: -.02em;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 600px;
+    display: inline-block
+}
+
+.TransferPopup_duration_container__tKBjj {
+    margin-bottom: 24px;
+    padding: 12px;
+    gap: 12px;
+    border-radius: 14px;
+    background: #fafafa
+}
+
+.TransferPopup_container_time__OxRyB {
+    background: #ebebeb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    width: 24px;
+    height: 24px;
+    margin-bottom: 12px
+}
+
+.TransferPopup_duration_text__BEozV {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: -.02em;
+    color: #000
+}
+
+.TransferPopup_check_text__xLmyH {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -.02em;
+    color: #333;
+    margin-top: 4px
+}
+
+.TransferPopup_boxHr__87dHN {
+    width: 100%
+}
+
+.TransferPopup_hr__hHkaq {
+    width: 100%;
+    border-bottom: 1px solid #e6e6e6
+}
+
+.TransferPopup_location__I2w6j {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+    margin-top: 16px
+}
+
+@media (max-width:1366px) and (pointer:coarse),
+(max-width:768px) {
+    .TransferPopup_header__M8LRA p {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: -.02em;
+        text-align: center;
+        text-underline-position: from-font;
+        -webkit-text-decoration-skip-ink: none;
+        text-decoration-skip-ink: none;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100px;
+        display: inline-block
+    }
+
+    .TransferPopup_overflowContainer__bks8D {
+        padding: 80px 16px 160px;
+        gap: 32px
+    }
+
+    .TransferPopup_description__H1rvX {
+        gap: 0;
+        font-size: 14px;
+        line-height: 20px
+    }
+
+    .TransferPopup_map_container__MVc6z {
+        height: 220px
+    }
+
+    .TransferPopup_card__title__Xuuu6 {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 28px
+    }
+
+    .TransferPopup_location__I2w6j {
+        font-size: 14px;
+        line-height: 24px
+    }
+
+    .TransferPopup_location__I2w6j img {
+        width: 16px;
+        height: 15.3px
+    }
+}
